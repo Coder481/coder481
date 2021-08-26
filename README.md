@@ -32,7 +32,7 @@ Below are some factors I’m currently busy with:
 </p>
 
 
-### Languages and tools I am familiar with:
+### Languages and tools:
 <p> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Android_software_development" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/></a> 
