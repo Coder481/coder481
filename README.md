@@ -18,9 +18,9 @@ Below are some
 - ⚡ Fun fact: ...
 -->
 Below are some factors I’m currently busy with:
-- 🌱 I’m currently learning android 📱 development and practice on java @[TheStreamLiners](https://github.com/The-Streamliners)
-- 💻 I spent my free time on [CodeForces](https://codeforces.com/profile/hrithik20) , [CodeChef](https://www.codechef.com/users/coder481) and [HackerRank](https://www.hackerrank.com/hrithiksharma241)
-- 👯 When I bored from coding , I keep myself busy in playing cricket, watching movies and writing blogs.
+- 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)
+- 💻 I spent my free time in coding on [CodeForces](https://codeforces.com/profile/hrithik20) , [CodeChef](https://www.codechef.com/users/coder481) and [LeetCode](https://leetcode.com/coder481/)
+- 👯 When I bored from coding , I keep myself busy in writing blogs, watching movies and playing cricket.
 - 📫 Contact me: **hrithiksharma24092000@gmail.com**
 - 📄 View my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
 
@@ -32,7 +32,7 @@ Below are some factors I’m currently busy with:
 </p>
 
 
-### Languages and tools:
+### Languages and Tools:
 <p> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Android_software_development" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/></a> 
