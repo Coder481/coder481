@@ -21,10 +21,10 @@ Below are some factors I’m currently busy with:
 - 🌱 I’m currently learning android 📱 development and practice on java @[TheStreamLiners](https://github.com/The-Streamliners)
 - 💻 I spent my free time on [CodeForces](https://codeforces.com/profile/hrithik20) , [CodeChef](https://www.codechef.com/users/coder481) and [HackerRank](https://www.hackerrank.com/hrithiksharma241)
 - 👯 When I bored from coding , I keep myself busy in playing cricket, watching movies and writing blogs.
-- 📫 Connect with me: **hrithiksharma24092000@gmail.com**
+- 📫 Contact me: **hrithiksharma24092000@gmail.com**
 - 📄 View my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
 
-<h3 align="left">You can find me here also:</h3>
+<h3 align="left">Connect with me:</h3>
 <p><a href="https://www.linkedin.com/in/hrithik-sharma-70576319b/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"alt="hrithik-sharma"/></a>
 <a href="https://www.instagram.com/hrithik_481/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"alt="hrithik_481"/></a>
 <a href="https://www.facebook.com/profile.php?id=100042920351971" target="blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"alt="hrithik sharma"/></a>
