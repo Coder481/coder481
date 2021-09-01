@@ -19,7 +19,7 @@ Below are some
 -->
 Below are some factors I’m currently busy with:
 - 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)
-- 💻 I spent my free time in coding on [CodeForces](https://codeforces.com/profile/hrithik20) , [CodeChef](https://www.codechef.com/users/coder481) and [LeetCode](https://leetcode.com/coder481/)
+- 💻 I spent my free time in coding on [CodeChef](https://www.codechef.com/users/coder481), [CodeForces](https://codeforces.com/profile/hrithik20) and [LeetCode](https://leetcode.com/coder481/)
 - 👯 When I bored from coding , I keep myself busy in writing blogs, watching movies and playing cricket.
 - 📫 Contact me: **hrithiksharma24092000@gmail.com**
 - 📄 View my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
