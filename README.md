@@ -29,6 +29,7 @@ Below are some factors I’m currently busy with:
 <a href="https://www.instagram.com/hrithik_481/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"alt="hrithik_481"/></a>
 <a href="https://www.facebook.com/profile.php?id=100042920351971" target="blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"alt="hrithik sharma"/></a>
 <a href="https://medium.com/@hrithik481" target="blank"><img src="https://img.icons8.com/ios-filled/72/medium-monogram--v2.gif"alt="hrithik-sharma" width=45 height=45/></a>
+<a href="https://twitter.com/Hrithik481" target="blank"><img src="https://github.com/Coder481/CDN/blob/main/2021/09/twitter_transparent.gif" alt="hrithik-sharma" width=45 height=45/> </a> 
 </p>
 
 
