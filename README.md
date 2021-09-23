@@ -1,4 +1,5 @@
-<h2 align="center">Hi there 👋 , This is Hrithik Sharma</h2>
+<h2  align="center">Hi there  <img src="https://github.com/Coder481/CDN/blob/main/2021/09/waving-hi-animated_transparent.gif" alt="waving hand" width=25 height=25/> , This is Hrithik Sharma</h2>
+
 
 ### I am a passionate programmer from INDIA
  
@@ -7,7 +8,7 @@
 **Coder481/coder481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Below are some 
-
+👋
 - 🌱 I’m currently learning android development and practice on java
 - 🔭 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
