@@ -62,6 +62,10 @@ Below are some factors I’m currently busy with:
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/>
 </a> 
  &nbsp;
+<a href="https://kotlinlang.org/" target="_blank">
+ <img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/>
+</a> 
+ &nbsp;
 <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank">
  <img src="https://github.com/Coder481/CDN/blob/main/ICONS/intellij.svg" alt="intelliJ" width="40" height="40"/>
  </a>
