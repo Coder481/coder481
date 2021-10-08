@@ -1,8 +1,9 @@
-<h2  align="center">Hi there 👋, This is Hrithik Sharma</h2>
+
+<!-- Top Banner -->
+<img src="https://raw.githubusercontent.com/Coder481/CDN/main/2021/09/Top%20Banner.svg" alt="Who I Am?"><br />
 
 
 ### I am a passionate programmer from INDIA
- 
  
 Below are some things I spent my time on:
 - 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)
@@ -97,7 +98,17 @@ Below are some things I spent my time on:
      <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Coder481.visitor-badge"> 
 </p>-->
 
+
+
+<!--Bottom Banner -->
+<img src="https://raw.githubusercontent.com/Coder481/CDN/main/2021/09/Bottom%20Banner.svg" alt=""><br />
+
+
+
+
+
 <!--
+<h2  align="center">Hi there 👋, This is Hrithik Sharma</h2>
 <hr>
 **Coder481/coder481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
