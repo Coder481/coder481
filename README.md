@@ -3,39 +3,24 @@
 
 ### I am a passionate programmer from INDIA
  
-
-<!--
-**Coder481/coder481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Below are some 
-👋
-<img src="https://github.com/Coder481/CDN/blob/main/2021/09/waving-hi-animated_transparent.gif" alt="waving hand" width=25 height=25/>
-- 🌱 I’m currently learning android development and practice on java
-- 🔭 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Below are some factors I’m currently busy with:
+ 
+Below are some things I spent my time on:
 - 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)
-- 💻 I spent my free time in coding on [CodeChef](https://www.codechef.com/users/coder481), [CodeForces](https://codeforces.com/profile/hrithik20) and [LeetCode](https://leetcode.com/coder481/)
-- 👯 When I bored from coding , I keep myself busy in writing blogs, watching movies and playing cricket.
-- 📫 Contact me: **hrithiksharma24092000@gmail.com**
-- 📄 View my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
-
+- ✍️ Writing tech blogs on my **[Blog Page](https://medium.com/@hrithik481)**
+- 💻 When I have free time, I use it in competitive coding on [CodeChef](https://www.codechef.com/users/coder481), [CodeForces](https://codeforces.com/profile/hrithik20) and [LeetCode](https://leetcode.com/coder481/)
+- 👯 If I bored from coding , I prefer to follow my hobbies of watching movies and playing cricket.
+- 📄 Have a look on my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
+<!--- 📫 Contact me: **hrithiksharma24092000@gmail.com**-->
 <h3 align="left">Connect with me:</h3>
 <p>
+<a href="mailto:hrithiksharma24092000@gmail.com" target="blank">
+ <img src="https://img.icons8.com/color/2x/gmail-new.png"alt="hrithik sharma" width=45 height=45/>
+ </a>
  <a href="https://www.linkedin.com/in/hrithik-sharma-70576319b/" target="blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"alt="hrithik-sharma"/>
  </a>
 <a href="https://www.instagram.com/hrithik_481/" target="blank">
  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"alt="hrithik_481"/>
- </a>
-<a href="https://www.facebook.com/profile.php?id=100042920351971" target="blank">
- <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"alt="hrithik sharma"/>
  </a>
  &nbsp;
 <a href="https://medium.com/@hrithik481" target="blank">
@@ -95,14 +80,68 @@ Below are some factors I’m currently busy with:
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder481&theme=midnight-purple&hide=css,html,c,Jupyter Notebook" />
+## 📈 Stats
+<div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder481&theme=midnight-purple&hide=css,html,c,Jupyter Notebook" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coder481&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Hrithik's github stats" />
+  <img align="right|center" src="https://github-readme-stats.vercel.app/api?username=Coder481&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Hrithik's github stats" />
 </a>
+</div> <br />
+<p>
+ <i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on Github.</i>
+</p>
+<!--<p align="center">  
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Coder481.visitor-badge"> 
+</p>-->
 
+<!--
+<hr>
+**Coder481/coder481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Below are some 
+👋
+<img src="https://github.com/Coder481/CDN/blob/main/2021/09/waving-hi-animated_transparent.gif" alt="waving hand" width=25 height=25/>
+- 🌱 I’m currently learning android development and practice on java
+- 🔭 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.*
+<!--<div align="center">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img
+        align="left"
+        width="396"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=coder481&theme=midnight-purple&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img
+        align="right"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=coder481&show_icons=true&theme=midnight-purple&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+      />
+    </a>
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="335"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder481&theme=midnight-purple&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile"
+      />
+    </a>
+  </div>
+  <br />
+<hr>
+-->
