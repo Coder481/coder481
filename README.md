@@ -6,10 +6,10 @@
 ### I am a passionate programmer from INDIA
  
 Below are some things I spent my time on:
-- 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)
+<!--- 🌱 I’m currently learning android 📱 development @[TheStreamLiners](https://github.com/The-Streamliners)-->
 - ✍️ Writing tech blogs on my **[Blog Page](https://medium.com/@hrithik481)**
-- 💻 When I have free time, I use it in competitive coding on [CodeChef](https://www.codechef.com/users/coder481), [CodeForces](https://codeforces.com/profile/hrithik20) and [LeetCode](https://leetcode.com/coder481/)
-- 👯 If I bored from coding , I prefer to follow my hobbies of watching movies and playing cricket.
+- 💻 When I have free time, I use it in competitive coding on [LeetCode](https://leetcode.com/coder481/), [CodeChef](https://www.codechef.com/users/coder481) and [CodeForces](https://codeforces.com/profile/hrithik20) 
+- 👯 Following my hobbies of watching movies and playing cricket to keep my mood fresh.
 - 📄 Have a look on my [**resume**](https://drive.google.com/file/d/1b8WHsNSBWrASKRieeZqPDAw_D49bykRN/view?usp=sharing)
 <!--- 📫 Contact me: **hrithiksharma24092000@gmail.com**-->
 <h3 align="left">Connect with me:</h3>
