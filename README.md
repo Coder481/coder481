@@ -84,7 +84,7 @@ Below are some things I spent my time on:
 ## 📈 Stats
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder481&theme=midnight-purple&hide=css,html,c,Jupyter Notebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder481&theme=midnight-purple&hide=css,html,c" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
