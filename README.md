@@ -88,7 +88,7 @@ Below are some things I spent my time on:
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right|center" src="https://github-readme-stats.vercel.app/api?username=Coder481&count_private=true&show_icons=true&theme=midnight-purple&line_height=27&v=5" alt="Hrithik's github stats" />
+  <img align="right|center" src="https://github-readme-stats.vercel.app/api?username=Coder481&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&line_height=27&v=5" alt="Hrithik's github stats" />
 </a>
 </div> <br />
 <p>
